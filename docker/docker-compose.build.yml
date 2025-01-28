@@ -1,0 +1,35 @@
+version: "3.7"
+
+services:
+  safetwitch-frontend:
+    container_name: safetwitch-frontend
+    hostname: safetwitch-frontend
+    restart: always
+    build:
+      context: "../"
+      dockerfile: "./docker/Dockerfile"
+    ports:
+      - "127.0.0.1:8280:8280"
+    environment:
+      - SAFETWITCH_BACKEND_DOMAIN=localhost:7100
+      - SAFETWITCH_INSTANCE_DOMAIN=localhost:8280
+      - SAFETWITCH_HTTPS=true
+      - SAFETWITCH_DEFAULT_THEME=dark
+      - SAFETWITCH_DEFAULT_LOCALE=en-US
+      - SAFETWITCH_FALLBACK_LOCALE=en-US
+
+  safetwitch-backend:
+    container_name: safetwitch-backend
+    hostname: safetwitch-backend
+    read_only: true
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    restart: always
+    image: codeberg.org/safetwitch/safetwitch-backend:latest
+    ports:
+      - "127.0.0.1:7100:7000"
+    environment:
+      - PORT=7000
+      - URL=changeme
