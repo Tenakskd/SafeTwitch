@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.content-container {
+    @apply flex bg-crust flex-col p-6 rounded-lg w-full text-contrast;
+  }
+  
+  .content-container-theatre {
+    @apply md:w-[62vw] lg:w-[75vw] xl:w-[75vw] 2xl:w-[68vw];
+  }
+  
+  .content-container-normal {
+    @apply md:w-[70vw] lg:w-[70vw] xl:w-[60vw] 2xl:w-[50vw] max-w-[1200px];
+  }
