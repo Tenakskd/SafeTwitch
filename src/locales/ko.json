@@ -1,0 +1,70 @@
+{
+    "error": {
+        "oops": "이런…",
+        "notsupposedtohappen": "이거 이상하네요, 오류인가요?",
+        "serverexplain": "데이터를 검색하는 동안 서버에 오류가 발생하였습니다 :3",
+        "notfound": "이 페이지는 존재하지 않습니다 :("
+    },
+    "main": {
+        "search": "검색",
+        "followers": "팔로워",
+        "viewers": "시청자",
+        "live": "생방송",
+        "searching": "검색 중…",
+        "views": "조회 수",
+        "themes": "테마"
+    },
+    "streamer": {
+        "unfollow": "언팔로우",
+        "about": "정보",
+        "videos": "동영상",
+        "follow": "팔로우",
+        "videoerror": "동영상 불러오기 오류",
+        "noSocials": "소셜 미제공",
+        "noAbout": "제공된 정보 없음"
+    },
+    "player": {
+        "quality": "화질"
+    },
+    "home": {
+        "discover": "탐색",
+        "discoverDescription": "인기 카테고리 정렬",
+        "tagDescription": "태그 필터링",
+        "following": "팔로잉",
+        "streamersYouFollow": "팔로잉한 스트리머"
+    },
+    "nav": {
+        "code": "소스코드",
+        "privacy": "개인정보",
+        "settings": "설정"
+    },
+    "chat": {
+        "connecting": "{username}에 연결 중",
+        "connected": "{username}에 연결 됨",
+        "timeout": "{username}님을 {duration}초 동안 임시 퇴장시켰습니다",
+        "banned": "{username}님을 강제 퇴장시켰습니다",
+        "removed": "{username}님의 메시지가 삭제되었습니다",
+        "resub": "{username}님이 {duration}개월 동안 다시 구독했습니다!"
+    },
+    "settings": {
+        "streamerAboutSectionVisible": "스트리머 정보 섹션 보이기",
+        "language": "언어",
+        "audioOnly": "오디오만",
+        "chatVisible": "채팅 숨기기",
+        "autoplay": "오디오/비디오 자동재생",
+        "streamTagsVisible": "스트림 태그 보이기",
+        "saveButton": "저장",
+        "defaultQuality": "기본 화질"
+    },
+    "share": {
+        "share": "공유",
+        "addTimestamp": "타임스탬프 추가",
+        "twitchUrl": "트위치 주소",
+        "goto": "가기",
+        "copyLink": "링크 복사"
+    },
+    "following": {
+        "empty": "없음!",
+        "followAdvice": "아무나 팔로잉하는건 어떨까요?"
+    }
+}

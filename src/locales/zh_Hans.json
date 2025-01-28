@@ -1,0 +1,70 @@
+{
+    "chat": {
+        "banned": "{username} 已被禁止参与聊天",
+        "connected": "已连接至 {username}",
+        "connecting": "正在连接 {username}",
+        "removed": "{username} 的消息已被删除",
+        "resub": "{username} 已重新订阅 {duration} 个月！",
+        "timeout": "{username} 已超时 {duration} 秒"
+    },
+    "share": {
+        "share": "分享",
+        "twitchUrl": "Twitch URL",
+        "goto": "前往",
+        "addTimestamp": "添加时间戳",
+        "copyLink": "复制链接"
+    },
+    "nav": {
+        "settings": "设置",
+        "code": "代码",
+        "privacy": "隐私"
+    },
+    "settings": {
+        "streamerAboutSectionVisible": "显示主播关于部分",
+        "language": "语言",
+        "audioOnly": "仅音频",
+        "chatVisible": "隐藏聊天",
+        "autoplay": "自动播放音频/视频",
+        "streamTagsVisible": "显示直播标签",
+        "saveButton": "保存",
+        "defaultQuality": "默认画质"
+    },
+    "main": {
+        "themes": "主题",
+        "followers": "关注者",
+        "views": "浏览",
+        "search": "搜索",
+        "searching": "正在搜索…",
+        "live": "直播",
+        "viewers": "观众"
+    },
+    "player": {
+        "quality": "画质"
+    },
+    "streamer": {
+        "videoerror": "获取视频时出错",
+        "noAbout": "未提供关于",
+        "videos": "视频",
+        "unfollow": "取消关注",
+        "about": "关于",
+        "follow": "关注",
+        "noSocials": "未提供活动"
+    },
+    "home": {
+        "discover": "发现",
+        "discoverDescription": "按热门类别排序",
+        "tagDescription": "过滤标签",
+        "following": "正在关注",
+        "streamersYouFollow": "您关注的主播"
+    },
+    "error": {
+        "oops": "哎呀…",
+        "serverexplain": "服务器在检索数据时遇到错误，所以出现了这个页面 :3",
+        "notsupposedtohappen": "这很奇怪，出错了？",
+        "notfound": "当前页面不存在 :("
+    },
+    "following": {
+        "empty": "空空如也！",
+        "followAdvice": "也许可以开始关注一些人？"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "chat": {
+        "banned": "{username} è stato bannato dalla chat",
+        "connected": "Connesso a {username}",
+        "connecting": "Connessione a {username}",
+        "removed": "Il messaggio di {username} è stato eliminato",
+        "resub": "{username} ha effettuato nuovamente l'abbonamento per {duration} mesi!",
+        "timeout": "{username} è stato silenziato per {duration} secondi"
+    },
+    "nav": {
+        "settings": "Impostazioni",
+        "code": "Codice",
+        "privacy": "Privacy"
+    },
+    "settings": {
+        "streamerAboutSectionVisible": "Mostra sezione Informazioni sullo streamer",
+        "language": "Lingua",
+        "audioOnly": "Solo audio",
+        "chatVisible": "Nascondi chat",
+        "autoplay": "Riproduzione automatica audio/video",
+        "streamTagsVisible": "Mostra tag dello streaming",
+        "saveButton": "Salva",
+        "defaultQuality": "Qualità predefinita"
+    },
+    "main": {
+        "followers": "Seguaci",
+        "views": "Visualizzazioni",
+        "search": "Cerca",
+        "searching": "Cerco…",
+        "live": "Diretta",
+        "viewers": "Spettatori",
+        "themes": "Temi"
+    },
+    "player": {
+        "quality": "Qualità"
+    },
+    "streamer": {
+        "videoerror": "Errore durante il recupero dei video",
+        "videos": "Video",
+        "unfollow": "Smetti di seguire",
+        "about": "Informazioni",
+        "follow": "Segui",
+        "noAbout": "Nessun Informazioni fornito",
+        "noSocials": "Nessun social fornito"
+    },
+    "home": {
+        "discover": "Scopri",
+        "discoverDescription": "Ordina attraverso le categorie popolari",
+        "tagDescription": "Filtra tag",
+        "streamersYouFollow": "Streamers che segui",
+        "following": "Seguendo"
+    },
+    "error": {
+        "oops": "oops…",
+        "serverexplain": "si è verificato un errore nel server durante il recupero dei dati e ora siamo qui :3",
+        "notsupposedtohappen": "è strano, un errore??",
+        "notfound": "Questa pagina non esiste :("
+    },
+    "share": {
+        "share": "Condividi",
+        "twitchUrl": "URL di Twitch",
+        "goto": "Vai a",
+        "addTimestamp": "Aggiungi marca temporale",
+        "copyLink": "Copia link"
+    },
+    "following": {
+        "empty": "Molto vuoto!",
+        "followAdvice": "Forse inizia a seguire qualche persona?"
+    }
+}

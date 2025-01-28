@@ -1,0 +1,70 @@
+{
+    "home": {
+        "discover": "Descobrir",
+        "discoverDescription": "Ordenar por categorias populares",
+        "tagDescription": "Filtrar marcadores",
+        "following": "Seguindo",
+        "streamersYouFollow": "Streamers que você segue"
+    },
+    "streamer": {
+        "unfollow": "Parar de seguir",
+        "follow": "Seguir",
+        "about": "Sobre",
+        "videos": "Vídeos",
+        "videoerror": "Erro ao buscar vídeos",
+        "noAbout": "Sobre não fornecido",
+        "noSocials": "Nenhuma rede social fornecida"
+    },
+    "error": {
+        "oops": "Ops…",
+        "notsupposedtohappen": "Isso é estranho, um erro??",
+        "serverexplain": "O servidor encontrou um erro ao recuperar os dados e agora estamos aqui :3",
+        "notfound": "Essa página não existe :("
+    },
+    "chat": {
+        "connected": "Conectado a {username}",
+        "removed": "A mensagem de {username} foi excluída",
+        "resub": "{username} reinscreveu-se por {duration} meses!",
+        "connecting": "Conectando-se a {username}",
+        "banned": "{username} foi banido do chat",
+        "timeout": "{username} sofreu um time out de {duration}"
+    },
+    "main": {
+        "followers": "Seguidores",
+        "search": "Buscar",
+        "viewers": "Espectadores",
+        "live": "Ao vivo",
+        "searching": "Buscando…",
+        "views": "Visualizações",
+        "themes": "Temas"
+    },
+    "player": {
+        "quality": "Qualidade"
+    },
+    "nav": {
+        "privacy": "Privacidade",
+        "code": "Código",
+        "settings": "Ajustes"
+    },
+    "settings": {
+        "defaultQuality": "Resolução padrão",
+        "language": "Idioma",
+        "chatVisible": "Ocultar Chat",
+        "saveButton": "Salvar",
+        "audioOnly": "Somente Audio",
+        "streamerAboutSectionVisible": "Mostrar Seção Sobre o Streamer",
+        "autoplay": "Reprodução automática de áudio/vídeo",
+        "streamTagsVisible": "Mostrar Tags da Stream"
+    },
+    "share": {
+        "share": "Compartilhar",
+        "twitchUrl": "URL da Twitch",
+        "goto": "Ir para",
+        "addTimestamp": "Adicionar Tempo",
+        "copyLink": "Copiar Link"
+    },
+    "following": {
+        "empty": "Tão vazio!",
+        "followAdvice": "Que tal começar a seguir algumas pessoas?"
+    }
+}

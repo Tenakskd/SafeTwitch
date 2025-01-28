@@ -1,0 +1,70 @@
+{
+    "main": {
+        "viewers": "Sledující",
+        "live": "Živě",
+        "searching": "Hledání…",
+        "views": "zhlédnutí",
+        "search": "Hledat",
+        "followers": "sledujících",
+        "themes": "Motivy"
+    },
+    "player": {
+        "quality": "Kvalita"
+    },
+    "home": {
+        "discover": "Prozkoumat",
+        "discoverDescription": "Prozkoumávání mezi populárními kategoriemi",
+        "tagDescription": "Filtrovat štítky",
+        "following": "Sledování",
+        "streamersYouFollow": "Streameři, které sledujete"
+    },
+    "streamer": {
+        "follow": "Sledovat",
+        "about": "O uživateli",
+        "videos": "Videa",
+        "videoerror": "Chyba při načítání videí",
+        "unfollow": "Zrušit sledování",
+        "noAbout": "Neposkytnuto žádné O mně",
+        "noSocials": "Neposkytnuty žádné sociální sítě"
+    },
+    "error": {
+        "oops": "jejda…",
+        "notsupposedtohappen": "to je zvláštní, chyba??",
+        "serverexplain": "při načítání dat se na serveru vyskytla chyba, a teď jsme tady :3",
+        "notfound": "Tato stránka neexistuje :("
+    },
+    "nav": {
+        "code": "Kód",
+        "privacy": "Soukromí",
+        "settings": "Nastavení"
+    },
+    "chat": {
+        "removed": "Zpráva od uživatele {username} byla odstraněna",
+        "connecting": "Připojování k {username}",
+        "resub": "Uživatel {username} začal znovu odebírat na {duration} měsíců!",
+        "timeout": "Uživatel {username} byl pozastaven na {duration} sekund",
+        "connected": "Připojeno k {username}",
+        "banned": "Uživatel {username} byl zabanován z chatu"
+    },
+    "settings": {
+        "defaultQuality": "Výchozí kvalita",
+        "language": "Jazyk",
+        "chatVisible": "Skrýt chat",
+        "saveButton": "Uložit",
+        "audioOnly": "Pouze zvuk",
+        "streamerAboutSectionVisible": "Zobrazit sekci O streamerovi",
+        "autoplay": "Automaticky přehrát zvuk/video",
+        "streamTagsVisible": "Zobrazit štítky streamu"
+    },
+    "share": {
+        "share": "Sdílet",
+        "twitchUrl": "URL Twitche",
+        "goto": "Přejít na",
+        "addTimestamp": "Přidat časovou značku",
+        "copyLink": "Kopírovat odkaz"
+    },
+    "following": {
+        "empty": "Tak prázdno!",
+        "followAdvice": "Zkuste začít někoho sledovat."
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "home": {
+        "tagDescription": "Etiketleri filtrele",
+        "streamersYouFollow": "Takip ettiğin yayıncılar",
+        "discoverDescription": "Popüler kategorilerin arasından seç",
+        "following": "Takip ettiklerin",
+        "discover": "Keşfet"
+    },
+    "error": {
+        "serverexplain": "sunucu, verileri alırken bir hatayla karşılaştı ve şimdi buradayız :3",
+        "notsupposedtohappen": "bu garip, bir hata mı??",
+        "notfound": "Böyle bir sayfa yok :(",
+        "oops": "hoop…"
+    },
+    "main": {
+        "themes": "Temalar",
+        "search": "Ara",
+        "followers": "Takipçi",
+        "viewers": "İzleyici",
+        "live": "Canlı",
+        "views": "Görüntüleme",
+        "searching": "Aranıyor…"
+    },
+    "share": {
+        "twitchUrl": "Twitch Linki",
+        "copyLink": "Linki Kopyala",
+        "goto": "Linke git",
+        "addTimestamp": "Zaman Ekle",
+        "share": "Paylaş"
+    },
+    "streamer": {
+        "unfollow": "Takibi bırak",
+        "videos": "Videolar",
+        "noSocials": "Yayıncı diğer sosyal medya hesaplarını eklememiş",
+        "noAbout": "Hakkında yazısı eklenmemiş",
+        "videoerror": "Videoları alırken hata oluştu",
+        "follow": "Takip Et",
+        "about": "Hakkında"
+    },
+    "chat": {
+        "removed": "{username} tarafından yazılan mesaj silindi",
+        "resub": "{username}, {duration} aylığına yeniden abone oldu!",
+        "connected": "{username} ile bağlantı kuruldu",
+        "banned": "{username} sohbetten yasaklandı",
+        "connecting": "{username} ile bağlantı kuruluyor",
+        "timeout": "{username}, {duration} saniyeliğine zaman aşımına uğratıldı"
+    },
+    "settings": {
+        "defaultQuality": "Varsayılan Kalite",
+        "language": "Dil",
+        "chatVisible": "Sohbeti Gizle",
+        "audioOnly": "Yalnızca Sesi Çal",
+        "streamTagsVisible": "Yayın Etiketlerini Göster",
+        "streamerAboutSectionVisible": "Yayıncının Hakkında Bölümünü Göster",
+        "autoplay": "Videoları/Sesleri Otomatik Oynat",
+        "saveButton": "Kaydet"
+    },
+    "following": {
+        "empty": "Ne kadar da boş!",
+        "followAdvice": "Bazı kişileri takip etmeye mi başlasan?"
+    },
+    "player": {
+        "quality": "Kalite"
+    },
+    "nav": {
+        "code": "Kod",
+        "privacy": "Gizlilik",
+        "settings": "Ayarlar"
+    }
+}

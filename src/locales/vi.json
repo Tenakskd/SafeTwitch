@@ -1,0 +1,53 @@
+{
+    "streamer": {
+        "videoerror": "Lỗi khi đang lấy những vi-đi-ô",
+        "follow": "Theo dõi",
+        "unfollow": "Bỏ theo dõi",
+        "about": "Thông tin về",
+        "videos": "Những vi-đi-ô",
+        "noSocials": "Những mạng xã hội chưa được cung cấp",
+        "noAbout": "Không có thông tin được cung cấp"
+    },
+    "share": {
+        "goto": "Đi vô",
+        "share": "Chia sẻ",
+        "addTimestamp": "Thêm dấu thời gian",
+        "twitchUrl": "Đường liên kết Twitch",
+        "copyLink": "Sao chép đường liên kết"
+    },
+    "nav": {
+        "code": "Mã lập trình",
+        "privacy": "Quyền riêng tư",
+        "settings": "Cài đặt"
+    },
+    "chat": {
+        "removed": "Tin nhắn của {username} đã bị xóa",
+        "connecting": "Đang kết nối đến {username}",
+        "connected": "Đã kết nối đến {username}",
+        "banned": "{username} đã bị cấm khỏi trò chuyện"
+    },
+    "main": {
+        "viewers": "Người xem",
+        "live": "Trực tiếp",
+        "searching": "Đang tìm kiếm…",
+        "views": "Lượt xem",
+        "themes": "Giao diện",
+        "search": "Tìm kiếm",
+        "followers": "Người theo dõi"
+    },
+    "player": {
+        "quality": "Chất lượng"
+    },
+    "home": {
+        "discover": "Tìm hiểu",
+        "tagDescription": "Lọc gắn thẻ",
+        "following": "Đang theo dõi",
+        "streamersYouFollow": "Những streamer mà bạn theo dõi",
+        "discoverDescription": "Xem qua các loại nổi tiếng"
+    },
+    "error": {
+        "oops": "Ôi…",
+        "notfound": "Trang này không tồn tại :(",
+        "notsupposedtohappen": "Lạ thật, có một lỗi??"
+    }
+}

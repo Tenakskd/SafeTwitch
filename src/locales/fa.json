@@ -1,0 +1,70 @@
+{
+    "main": {
+        "search": "جستجو",
+        "followers": "دنبال کنندگان",
+        "viewers": "بینندگان",
+        "live": "زنده",
+        "searching": "جستجو…",
+        "views": "بازدیدها",
+        "themes": "تم ها"
+    },
+    "player": {
+        "quality": "کیفیت"
+    },
+    "home": {
+        "discover": "لیست پخش زنده",
+        "discoverDescription": "مرتب سازی بر اساس دسته بندی های محبوب",
+        "tagDescription": "فیلتر برچسب ها",
+        "following": "دنبال شونده",
+        "streamersYouFollow": "‫استریمر هایی که دنبال می‌کنید"
+    },
+    "streamer": {
+        "follow": "دنبال کنید",
+        "unfollow": "لغو دنبال کردن",
+        "about": "در باره",
+        "videos": "ویدیوها",
+        "videoerror": "خطا در بارگیری ویدیوها",
+        "noAbout": "اطلاعاتی درباره کاربر ارائه نشده",
+        "noSocials": "هیچ شبکه اجتماعی ارائه نشده"
+    },
+    "error": {
+        "oops": "اوه…",
+        "notsupposedtohappen": "این عجیب است، یک خطا؟",
+        "serverexplain": "سرور هنگام بازیابی داده ها با خطا مواجه شد و اکنون اینجا هستیم:3",
+        "notfound": "چنین صفحه ای وجود ندارد"
+    },
+    "nav": {
+        "code": "کد",
+        "privacy": "حریم خصوصی",
+        "settings": "تنظیمات"
+    },
+    "chat": {
+        "removed": "پیام {username} حذف شد",
+        "resub": "{username} برای {duration} ماه دوباره ساب شد!",
+        "connecting": "در حال اتصال به {username}",
+        "connected": "متصل به {username}",
+        "banned": "{username} از چت ممنوع شده است",
+        "timeout": "‌زمان {username} برای {duration} ثانیه محدود شد"
+    },
+    "settings": {
+        "defaultQuality": "‎کیفیت پیش فرض",
+        "language": "زبان",
+        "chatVisible": "پنهان کردن چت",
+        "saveButton": "ذخیره",
+        "audioOnly": "فقط صدا",
+        "streamerAboutSectionVisible": "نمایش بخش درباره استریمر",
+        "autoplay": "پخش خودکار صدا/ویدیو",
+        "streamTagsVisible": "نمایش تگ های پخش زنده"
+    },
+    "following": {
+        "followAdvice": "تمایل به دنبال کردن افرادی دارید؟",
+        "empty": "کاملا خالیست!"
+    },
+    "share": {
+        "twitchUrl": "نشانی وب توییچ",
+        "addTimestamp": "افزودن برچسب زمانی",
+        "copyLink": "کپی کردن لینک",
+        "goto": "ورود به",
+        "share": "اشتراک گذاری‫‫‫"
+    }
+}

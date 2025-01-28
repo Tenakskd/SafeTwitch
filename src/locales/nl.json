@@ -1,0 +1,70 @@
+{
+    "main": {
+        "live": "Live",
+        "search": "Zoeken",
+        "followers": "Volgers",
+        "viewers": "Kijkers",
+        "searching": "Bezig met zoeken…",
+        "views": "Aantal weergaven",
+        "themes": "Thema's"
+    },
+    "home": {
+        "discover": "Ontdekken",
+        "discoverDescription": "Bekijk video's van populaire categorieën",
+        "tagDescription": "Filter labels",
+        "following": "Volgend",
+        "streamersYouFollow": "Streamers die je volgt"
+    },
+    "streamer": {
+        "follow": "Volgen",
+        "unfollow": "Ontvolgen",
+        "about": "Over",
+        "videos": "Video's",
+        "videoerror": "De video's kunnen niet worden opgehaald",
+        "noAbout": "Er is geen biografie",
+        "noSocials": "Er zijn geen sociale links"
+    },
+    "chat": {
+        "removed": "Het bericht van {username} is verwijderd",
+        "connecting": "Bezig met verbinden met {username}…",
+        "connected": "Verbonden met {username}",
+        "resub": "{username} heeft zich opnieuw geabonneerd voor de duur van {duration} maanden!",
+        "banned": "{username} is verbannen uit de chat",
+        "timeout": "{username} is inactief gedurende {duration} seconden"
+    },
+    "player": {
+        "quality": "Kwaliteit"
+    },
+    "error": {
+        "oops": "Oeps…",
+        "notsupposedtohappen": "Een foutmelding, wat raar!!!",
+        "serverexplain": "Er is een fout opgetreden tijdens het ophalen van gegevens van de server en zijn we hier aanbeland. :3",
+        "notfound": "Deze pagina bestaat niet. :("
+    },
+    "nav": {
+        "code": "Code",
+        "privacy": "Privacy",
+        "settings": "Instellingen"
+    },
+    "settings": {
+        "defaultQuality": "Standaardkwaliteit",
+        "language": "Taal",
+        "chatVisible": "Chat verbergen",
+        "saveButton": "Opslaan",
+        "audioOnly": "Alleen audio",
+        "streamTagsVisible": "Streamtags tonen",
+        "autoplay": "Audio/Video's automatisch afspelen",
+        "streamerAboutSectionVisible": "Biografiesectie tonen"
+    },
+    "share": {
+        "share": "Delen",
+        "twitchUrl": "Twitch-url",
+        "goto": "Ga naar",
+        "addTimestamp": "Tijdstip toevoegen",
+        "copyLink": "Link kopiëren"
+    },
+    "following": {
+        "empty": "Veel te leeg!",
+        "followAdvice": "Waarom ga je niet een paar mensen volgen?"
+    }
+}

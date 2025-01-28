@@ -1,0 +1,70 @@
+{
+    "share": {
+        "copyLink": "Kopioi linkki",
+        "share": "Jaa",
+        "goto": "Mene",
+        "twitchUrl": "Twitch URL",
+        "addTimestamp": "Lisää aikaleima"
+    },
+    "nav": {
+        "code": "Koodi",
+        "settings": "Asetukset",
+        "privacy": "Yksityisyys"
+    },
+    "streamer": {
+        "noAbout": "Ei tietoja annettu",
+        "follow": "Seuraa",
+        "about": "Tietoa",
+        "videos": "Videot",
+        "noSocials": "Ei sosiaalisia medioita annettu",
+        "unfollow": "Lopeta seuraaminen",
+        "videoerror": "Virhe videoita haettaessa"
+    },
+    "main": {
+        "followers": "Seuraajat",
+        "live": "Live",
+        "searching": "Etsitään…",
+        "views": "Näyttökerrat",
+        "search": "Etsi",
+        "viewers": "Katsojat",
+        "themes": "Teemat"
+    },
+    "player": {
+        "quality": "Laatu"
+    },
+    "home": {
+        "discover": "Tutustu",
+        "tagDescription": "Suodata tunnisteita",
+        "following": "Seurataan",
+        "discoverDescription": "Lajittele suosittujen kategorioiden mukaan",
+        "streamersYouFollow": "Seuraamasi striimaajat"
+    },
+    "error": {
+        "oops": "Hupsista…",
+        "serverexplain": "Palvelin kohtasi virheen haettaessa tietoja, ja nyt olemme tässä :3",
+        "notsupposedtohappen": "Tämä on outoa, virhe??",
+        "notfound": "Tätä sivua ei ole olemassa :("
+    },
+    "chat": {
+        "connecting": "Yhdistetään {username}",
+        "connected": "Yhdistetty {username}",
+        "banned": "{username} on estetty chatista",
+        "removed": "Käyttäjän {username} viesti poistettiin",
+        "resub": "{username} uudelleen tilasi {duration} kuukaudeksi!",
+        "timeout": "{username} asetettu jäähylle {duration} sekunniksi"
+    },
+    "settings": {
+        "defaultQuality": "Oletuslaatu",
+        "language": "Kieli",
+        "chatVisible": "Piilota chatti",
+        "saveButton": "Tallenna",
+        "autoplay": "Toista Audio/Video automaattisesti",
+        "streamTagsVisible": "Näytä stream tunnisteet",
+        "audioOnly": "Pelkkä audio",
+        "streamerAboutSectionVisible": "Näytä streamerin Tietoja -osio"
+    },
+    "following": {
+        "empty": "Niin tyhjää!",
+        "followAdvice": "Voisit aloittaa seuraamaan jotakuta?"
+    }
+}

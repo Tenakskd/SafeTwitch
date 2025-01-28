@@ -1,0 +1,70 @@
+{
+    "main": {
+        "followers": "フォロワー",
+        "searching": "検索中…",
+        "themes": "テーマ",
+        "live": "配信中",
+        "views": "回視聴",
+        "viewers": "視聴者数",
+        "search": "検索"
+    },
+    "player": {
+        "quality": "解像度"
+    },
+    "home": {
+        "discover": "発見",
+        "discoverDescription": "人気順のカテゴリー",
+        "tagDescription": "タグでフィルター",
+        "following": "フォロー中",
+        "streamersYouFollow": "フォローしているストリーマー"
+    },
+    "share": {
+        "share": "共有",
+        "addTimestamp": "タイムスタンプを追加",
+        "twitchUrl": "TwitchのURL",
+        "copyLink": "リンクをコピー",
+        "goto": "移動"
+    },
+    "streamer": {
+        "follow": "フォロー",
+        "unfollow": "フォロー解除",
+        "about": "自己紹介",
+        "videos": "動画",
+        "videoerror": "動画取得エラー",
+        "noSocials": "ソーシャルリンクがありません",
+        "noAbout": "自己紹介がありません"
+    },
+    "error": {
+        "notsupposedtohappen": "こいつは変だな、エラーか??",
+        "oops": "あらら…",
+        "notfound": "ページが存在しません (；ω；)",
+        "serverexplain": "データの取得中にサーバーでエラーが発生しました。というわけで今このページに飛ばされてます (｀・ω・´)"
+    },
+    "nav": {
+        "code": "コード",
+        "privacy": "プライバシー",
+        "settings": "設定"
+    },
+    "chat": {
+        "removed": "{username} のメッセージが削除されました",
+        "resub": "{username} が {duration} ヶ月間連続サブスク中!",
+        "connecting": "{username} に接続中",
+        "connected": "{username} に接続完了",
+        "banned": "{username} はチャットを禁止されました",
+        "timeout": "{username} はチャットを {duration} 秒間禁止されました"
+    },
+    "settings": {
+        "defaultQuality": "デフォルト画質",
+        "language": "言語",
+        "chatVisible": "チャットを非表示",
+        "saveButton": "保存",
+        "audioOnly": "オーディオのみ",
+        "streamTagsVisible": "配信のタグを表示",
+        "streamerAboutSectionVisible": "自己紹介を表示",
+        "autoplay": "自動再生"
+    },
+    "following": {
+        "empty": "空っぽだ!",
+        "followAdvice": "誰かをフォローし始めてみない?"
+    }
+}

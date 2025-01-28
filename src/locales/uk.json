@@ -1,0 +1,70 @@
+{
+    "chat": {
+        "banned": "{username} було заблоковано в чаті",
+        "connected": "З'єднано з {username}",
+        "connecting": "З'єднання з {username}",
+        "removed": "Повідомлення від {username} було вилучено",
+        "resub": "{username} перепідписується на {duration} місяців!",
+        "timeout": "{username} було затишено на {duration} секунд"
+    },
+    "nav": {
+        "settings": "Налаштування",
+        "code": "Код",
+        "privacy": "Приватність"
+    },
+    "settings": {
+        "streamerAboutSectionVisible": "Показувати розділ про стримера",
+        "language": "Мова",
+        "audioOnly": "Лише звук",
+        "chatVisible": "Сховати чат",
+        "autoplay": "Самопрогравання звуку/видива",
+        "streamTagsVisible": "Показувати мітки потоку",
+        "saveButton": "Зберегти",
+        "defaultQuality": "Якість за замовчуванням"
+    },
+    "main": {
+        "themes": "Теми",
+        "followers": "Стежать",
+        "views": "Перегляди",
+        "search": "Пошук",
+        "searching": "Пошук…",
+        "live": "Наживо",
+        "viewers": "Глядачі"
+    },
+    "player": {
+        "quality": "Якість"
+    },
+    "streamer": {
+        "videoerror": "Помилка при отриманні видив",
+        "videos": "Видива",
+        "unfollow": "Не стежити",
+        "about": "Про",
+        "follow": "Стежити",
+        "noAbout": "Не надано інформації про стримера",
+        "noSocials": "Не вказано інформації про соцмережі"
+    },
+    "home": {
+        "discover": "Огляд",
+        "discoverDescription": "Оглянути популярні категорії",
+        "tagDescription": "Відсіяти мітки",
+        "following": "Відстежувані",
+        "streamersYouFollow": "Стримери, за якими Ви стежите"
+    },
+    "error": {
+        "oops": "йойки…",
+        "serverexplain": "сервер зіткнувся з помилкою при отриманні даних — такі от справи, малята :з",
+        "notsupposedtohappen": "яке дивацтво, невже хиба??",
+        "notfound": "Такої сторінки не існує :("
+    },
+    "share": {
+        "share": "Поділитися",
+        "twitchUrl": "Посилання Twitch",
+        "goto": "Перейти",
+        "addTimestamp": "Додати позначку часу",
+        "copyLink": "Копіювати посилання"
+    },
+    "following": {
+        "empty": "Так порожньо!",
+        "followAdvice": "Можливо, почніть стежити за кимось?"
+    }
+}

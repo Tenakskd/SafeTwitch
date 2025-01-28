@@ -1,0 +1,70 @@
+{
+    "main": {
+        "followers": "Seguidors",
+        "viewers": "Espectadors",
+        "live": "En directe",
+        "searching": "S'està cercant…",
+        "themes": "Temes",
+        "search": "Cerca",
+        "views": "Visites"
+    },
+    "player": {
+        "quality": "Qualitat"
+    },
+    "home": {
+        "discover": "Descobrir",
+        "discoverDescription": "Navega per les categories populars",
+        "tagDescription": "Filtra etiquetes",
+        "following": "Seguint",
+        "streamersYouFollow": "Streamers que seguiu"
+    },
+    "share": {
+        "share": "Comparteix",
+        "addTimestamp": "Afegeix marca de temps",
+        "twitchUrl": "URL de Twitch",
+        "copyLink": "Copia l'enllaç",
+        "goto": "Ves-hi"
+    },
+    "streamer": {
+        "follow": "Segueix",
+        "unfollow": "Deixa de seguir",
+        "about": "Informació",
+        "videos": "Vídeos",
+        "videoerror": "S'ha produït un error en obtenir els vídeos",
+        "noSocials": "No s'ha proporcionat cap xarxa social",
+        "noAbout": "No s'ha proporcionat informació"
+    },
+    "error": {
+        "oops": "ups…",
+        "notsupposedtohappen": "això és estrany, un error??",
+        "serverexplain": "s'ha trobat un error al servidor en obtenir les dades, i ara som aquí :3",
+        "notfound": "Aquesta pàgina no existeix :("
+    },
+    "nav": {
+        "code": "Codi",
+        "privacy": "Privadesa",
+        "settings": "Configuració"
+    },
+    "chat": {
+        "resub": "{username} s'ha tornat a subscriure per {duration} mesos!",
+        "connecting": "Connectant a {username}",
+        "connected": "Connectat a {username}",
+        "banned": "S'ha blocat a {username} del xat",
+        "removed": "S'ha suprimit el missatge de {username}",
+        "timeout": "{username} s'ha silenciat temporalment per {duration} segons"
+    },
+    "settings": {
+        "defaultQuality": "Qualitat per defecte",
+        "language": "Idioma",
+        "chatVisible": "Amaga el xat",
+        "saveButton": "Desa",
+        "audioOnly": "Només àudio",
+        "streamTagsVisible": "Mostra les etiquetes de la transmissió",
+        "streamerAboutSectionVisible": "Mostra la secció Informació del Canal",
+        "autoplay": "Reprodueix automàticament l'àudio/vídeo"
+    },
+    "following": {
+        "empty": "Que buit!",
+        "followAdvice": "Potser comença a seguir a algunes persones?"
+    }
+}

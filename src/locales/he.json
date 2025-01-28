@@ -1,0 +1,63 @@
+{
+    "main": {
+        "search": "חיפוש",
+        "followers": "עוקבים",
+        "viewers": "צופים",
+        "live": "שידור חי",
+        "searching": "מחפש",
+        "views": "צפיות",
+        "themes": "ערכות נושא"
+    },
+    "player": {
+        "quality": "איכות"
+    },
+    "home": {
+        "discover": "גלה",
+        "discoverDescription": "מיין בין קטגוריות פופולריות",
+        "tagDescription": "סינון תגיות"
+    },
+    "streamer": {
+        "follow": "עקוב",
+        "unfollow": "הסר עוקב",
+        "about": "אודות",
+        "videos": "סרטונים",
+        "videoerror": "שגיאה באחזור סרטונים",
+        "noAbout": "לא סופק אודות",
+        "noSocials": "לא סופקו הודעות חברתיות"
+    },
+    "error": {
+        "oops": "אופס",
+        "notsupposedtohappen": "??זה מוזר, שגיאה",
+        "serverexplain": "השרת נתקל בשגיאה בעת אחזור הנתונים, ועכשיו אנחנו כאן"
+    },
+    "nav": {
+        "code": "קוד",
+        "privacy": "פרטיות",
+        "settings": "הגדרות"
+    },
+    "chat": {
+        "removed": "הודעה מאת {username} נמחקה",
+        "resub": "{username} נרשם מחדש למשך {duration} חודשים!",
+        "connecting": "מתחבר אל {username}",
+        "connected": "מחובר ל-{username}",
+        "banned": "{username} נחסם מהצ'אט",
+        "timeout": "תם זמן הקצוב של {username} למשך {duration} שניות"
+    },
+    "settings": {
+        "language": "שפה",
+        "chatVisible": "הסתר צ'אט",
+        "saveButton": "שמור",
+        "defaultQuality": "איכות ברירת המחדל",
+        "audioOnly": "אודיו בלבד",
+        "streamerAboutSectionVisible": "הצג את מדור אודות הסטרימר",
+        "autoplay": "הפעלה אוטומטית של אודיו/וידאו",
+        "streamTagsVisible": "הצג תגי זרם"
+    },
+    "share": {
+        "share": "שתף",
+        "twitchUrl": "טוויץ URL",
+        "goto": "לך ל",
+        "addTimestamp": "הוסף חותמת זמן",
+        "copyLink": "העתק קישור"
+    }
+}

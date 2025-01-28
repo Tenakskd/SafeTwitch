@@ -1,0 +1,70 @@
+{
+    "streamer": {
+        "unfollow": "Отписаться",
+        "follow": "Подписаться",
+        "about": "О стримере",
+        "videos": "Видео",
+        "videoerror": "Ошибка при получении видео",
+        "noAbout": "Информация о канале не указана",
+        "noSocials": "Соц. сети не указаны"
+    },
+    "main": {
+        "search": "Поиск",
+        "followers": "Подписчики",
+        "live": "В эфире",
+        "viewers": "Зрители",
+        "searching": "Ищем…",
+        "views": "Просмотры",
+        "themes": "Темы"
+    },
+    "home": {
+        "discover": "Обзор",
+        "discoverDescription": "Сортировать по популярным категориям",
+        "tagDescription": "Фильтр тегов",
+        "following": "Подписки",
+        "streamersYouFollow": "Каналы, на которые вы подписаны"
+    },
+    "nav": {
+        "code": "Код",
+        "privacy": "Приватность",
+        "settings": "Настройки"
+    },
+    "chat": {
+        "connected": "Подключен к {username}",
+        "removed": "Сообщение от {username} было удалено",
+        "resub": "{username} повторно подписался {duration}-й месяц!",
+        "connecting": "Подключаемся к {username}",
+        "banned": "{username} удалён из чата",
+        "timeout": "{username} превысил время ожидания за {duration} секунд"
+    },
+    "player": {
+        "quality": "Качество"
+    },
+    "error": {
+        "oops": "упс…",
+        "notsupposedtohappen": "это странно.. ошибка??",
+        "serverexplain": "у сервера произошла ошибка при получении данных, и теперь мы здесь :3",
+        "notfound": "Эта страница не существует :("
+    },
+    "settings": {
+        "streamerAboutSectionVisible": "Показывать раздел о канале",
+        "language": "Язык",
+        "audioOnly": "Только звук",
+        "chatVisible": "Скрыть чат",
+        "autoplay": "Автовоспроизведение аудио/видео",
+        "streamTagsVisible": "Показывать теги трансляции",
+        "saveButton": "Сохранить",
+        "defaultQuality": "Качество по умолчанию"
+    },
+    "share": {
+        "share": "Поделиться",
+        "twitchUrl": "Ссылка на Twitch",
+        "goto": "Перейти на",
+        "addTimestamp": "Добавить врем. метку",
+        "copyLink": "Копировать ссылку"
+    },
+    "following": {
+        "empty": "Так пусто!",
+        "followAdvice": "Возможно, стоит подписаться на кого-нибудь?"
+    }
+}

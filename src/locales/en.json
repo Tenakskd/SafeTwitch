@@ -1,0 +1,70 @@
+{
+    "main": {
+        "search": "Search",
+        "followers": "Followers",
+        "viewers": "Viewers",
+        "live": "Live",
+        "searching": "Searching…",
+        "views": "Views",
+        "themes": "Themes"
+    },
+    "player": {
+        "quality": "Quality"
+    },
+    "home": {
+        "discover": "Discover",
+        "discoverDescription": "Sort through popular categories",
+        "tagDescription": "Filter tags",
+        "following": "Following",
+        "streamersYouFollow": "Streamers you follow"
+    },
+    "share": {
+        "share": "Share",
+        "addTimestamp": "Add Timestamp",
+        "twitchUrl": "Twitch URL",
+        "copyLink": "Copy Link",
+        "goto": "Go to"
+    },
+    "streamer": {
+        "follow": "Follow",
+        "unfollow": "Unfollow",
+        "about": "About",
+        "videos": "Videos",
+        "videoerror": "Error fetching videos",
+        "noSocials": "No socials provided",
+        "noAbout": "No about provided"
+    },
+    "error": {
+        "oops": "oops…",
+        "notsupposedtohappen": "this is strange, an error??",
+        "serverexplain": "the server was encountered an error while retrieving the data, and now we're here :3",
+        "notfound": "This page doesn't exist :("
+    },
+    "nav": {
+        "code": "Code",
+        "privacy": "Privacy",
+        "settings": "Settings"
+    },
+    "chat": {
+        "removed": "Message by {username} was deleted",
+        "resub": "{username} has resubed for {duration} months!",
+        "connecting": "Connecting to {username}",
+        "connected": "Connected to {username}",
+        "banned": "{username} has been banned from chat",
+        "timeout": "{username} timed out for {duration} seconds"
+    },
+    "settings": {
+        "defaultQuality": "Default Quality",
+        "language": "Language",
+        "chatVisible": "Hide Chat",
+        "saveButton": "Save",
+        "audioOnly": "Audio Only",
+        "streamTagsVisible": "Show Stream Tags",
+        "streamerAboutSectionVisible": "Show Streamer About Section",
+        "autoplay": "Autoplay Audio/Video"
+    },
+    "following": {
+        "empty": "So empty!",
+        "followAdvice": "Perhaps start following some people?"
+    }
+}

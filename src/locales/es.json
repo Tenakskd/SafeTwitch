@@ -1,0 +1,70 @@
+{
+    "main": {
+        "search": "Buscar",
+        "followers": "Seguidores",
+        "viewers": "espectadores",
+        "live": "Vivo",
+        "searching": "Buscando…",
+        "views": "Visitas",
+        "themes": "Temas"
+    },
+    "player": {
+        "quality": "Qualidad"
+    },
+    "home": {
+        "discover": "Descubrir",
+        "discoverDescription": "Ordenar a través de categorías populares",
+        "tagDescription": "Filtrar etiquetas",
+        "following": "Siguiendo",
+        "streamersYouFollow": "Streamers a los que sigues"
+    },
+    "streamer": {
+        "follow": "Seguir",
+        "unfollow": "Dejar de seguir",
+        "about": "Acerca",
+        "videos": "Vídeos",
+        "videoerror": "Error al conseguir los vídeos",
+        "noAbout": "No se proporcionó información",
+        "noSocials": "No se proporcionan redes sociales"
+    },
+    "error": {
+        "notsupposedtohappen": "esto es extraño, un error??",
+        "oops": "ups…",
+        "serverexplain": "El servidor encontró un error mientras recuperaba los datos, ahora estamos aqui :3",
+        "notfound": "Esta página no existe :("
+    },
+    "nav": {
+        "code": "Código",
+        "privacy": "Privacidad",
+        "settings": "Ajustes"
+    },
+    "chat": {
+        "connecting": "Conectándose a {username}",
+        "resub": "{username} se ha suscrito por {duration} de meses!",
+        "removed": "Mensaje de {username} fue borrado",
+        "connected": "Conectado a {username}",
+        "banned": "{username} ha sido expulsado del chat",
+        "timeout": "{username} ha expirado durante {duration} segundos"
+    },
+    "settings": {
+        "defaultQuality": "Calidad predeterminada",
+        "language": "Idioma",
+        "chatVisible": "Ocultar el chat",
+        "saveButton": "Guardar",
+        "audioOnly": "Solo el audio",
+        "streamerAboutSectionVisible": "Mostrar la sección Acerca del Streamer",
+        "autoplay": "Reproducción automática del audio/vídeo",
+        "streamTagsVisible": "Mostrar las etiquetas de la transmisión"
+    },
+    "share": {
+        "share": "Compartir",
+        "twitchUrl": "Dirección URL para Twitch",
+        "goto": "Ir a",
+        "addTimestamp": "Agregar una marca de tiempo",
+        "copyLink": "Copiar el enlace"
+    },
+    "following": {
+        "empty": "¡Tan vacío!",
+        "followAdvice": "¿Quizás empezar a seguir a algunas personas?"
+    }
+}

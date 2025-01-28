@@ -1,0 +1,70 @@
+{
+    "chat": {
+        "banned": "{username} wurde im Chat gesperrt",
+        "connected": "Verbunden zu {username}",
+        "connecting": "Verbinde zu {username}",
+        "removed": "Nachricht von {username} wurde gelöscht",
+        "resub": "{username} hat im {duration} erneut Monat abboniert!",
+        "timeout": "{username} hatte eine Zeitüberschreitung von {duration} Sekunden"
+    },
+    "nav": {
+        "settings": "Einstellungen",
+        "code": "Code",
+        "privacy": "Privatsphäre"
+    },
+    "settings": {
+        "streamerAboutSectionVisible": "Zeige den Streamer-Abschnitt",
+        "language": "Sprache",
+        "audioOnly": "Nur Audio",
+        "chatVisible": "Chat verstecken",
+        "autoplay": "Automatisch Audio/Video abspielen",
+        "streamTagsVisible": "Zeige Stream Tags",
+        "saveButton": "Speichern",
+        "defaultQuality": "Standardqualität"
+    },
+    "main": {
+        "followers": "Follower",
+        "views": "Aufrufe",
+        "search": "Suchen",
+        "searching": "Suche…",
+        "live": "Live",
+        "viewers": "Zuschauer",
+        "themes": "Themen"
+    },
+    "player": {
+        "quality": "Qualität"
+    },
+    "streamer": {
+        "videoerror": "Fehler beim Aufrufen von Videos",
+        "videos": "Videos",
+        "unfollow": "Entfolge",
+        "about": "Über",
+        "follow": "Folge",
+        "noAbout": "Kein About vorhanden",
+        "noSocials": "Keine Socials vorhanden"
+    },
+    "home": {
+        "discover": "Entdecke",
+        "discoverDescription": "Suche durch populäre Kategorien",
+        "tagDescription": "Tags filtern",
+        "following": "Gefolgt",
+        "streamersYouFollow": "Streamer, denen du folgst"
+    },
+    "error": {
+        "oops": "Ups…",
+        "serverexplain": "Beim Abrufen der Daten ist auf dem Server ein Fehler aufgetreten, und jetzt sind wir hier :3",
+        "notsupposedtohappen": "Das ist seltsam, ein Fehler??",
+        "notfound": "Die Seite existiert nicht :("
+    },
+    "share": {
+        "share": "Teilen",
+        "twitchUrl": "Twitch-URL",
+        "goto": "Gehe zu",
+        "addTimestamp": "Zeitstempel hinzufügen",
+        "copyLink": "Link kopieren"
+    },
+    "following": {
+        "followAdvice": "Vielleicht solltest einigen Leuten folgen?",
+        "empty": "So leer!"
+    }
+}

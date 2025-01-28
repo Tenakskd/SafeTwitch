@@ -1,0 +1,70 @@
+{
+    "chat": {
+        "banned": "Zbanowano {username} na czacie",
+        "connected": "Połączono z {username}",
+        "connecting": "Łączenie z {username}",
+        "removed": "Wiadomość od {username} została usunięta",
+        "resub": "{username} subskrybuje od {duration} miesięcy!",
+        "timeout": "{username} przekroczył/a limit czasu o {duration} sekund"
+    },
+    "nav": {
+        "settings": "Ustawienia",
+        "code": "Kod",
+        "privacy": "Prywatność"
+    },
+    "settings": {
+        "streamerAboutSectionVisible": "Pokaż sekcję Informacje o streamerze",
+        "language": "Język",
+        "audioOnly": "Tylko dźwięk",
+        "chatVisible": "Ukryj czat",
+        "autoplay": "Automatyczne odtwarzanie dźwięku/filmów",
+        "streamTagsVisible": "Pokaż tagi transmisji",
+        "saveButton": "Zapisz",
+        "defaultQuality": "Domyślna jakość"
+    },
+    "main": {
+        "followers": "Obserwujący",
+        "views": "Wyświetleń",
+        "search": "Wyszukaj",
+        "searching": "Szukanie…",
+        "live": "Na żywo",
+        "viewers": "Oglądający",
+        "themes": "Motywy"
+    },
+    "player": {
+        "quality": "Jakość"
+    },
+    "streamer": {
+        "videoerror": "Błąd podczas pobierania filmu",
+        "videos": "Filmy",
+        "unfollow": "Przestań obserwować",
+        "about": "Informacje",
+        "follow": "Obserwuj",
+        "noAbout": "Nie podano żadnych informacji",
+        "noSocials": "Nie podano żadnych kont społecznościowych"
+    },
+    "home": {
+        "discover": "Odkrywaj",
+        "discoverDescription": "Sortuj według popularnych kategorii",
+        "tagDescription": "Filtruj tagi",
+        "following": "Obserwowani",
+        "streamersYouFollow": "Streamerzy, których obserwujesz"
+    },
+    "error": {
+        "oops": "ups…",
+        "serverexplain": "serwer napotkał błąd podczas pobierania danych, a teraz jesteśmy tutaj :3",
+        "notsupposedtohappen": "dziwne, błąd??",
+        "notfound": "Ta strona nie istnieje :("
+    },
+    "share": {
+        "share": "Udostepnij",
+        "twitchUrl": "Adres URL Twitch",
+        "goto": "Przejdź do",
+        "addTimestamp": "Dodaj znacznik czasowy",
+        "copyLink": "Skopiuj link"
+    },
+    "following": {
+        "followAdvice": "Może zacznij obserwować jakieś osoby?",
+        "empty": "Jak pusto!"
+    }
+}

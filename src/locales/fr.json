@@ -1,0 +1,70 @@
+{
+    "main": {
+        "search": "Recherche",
+        "viewers": "Spectateur·rices",
+        "followers": "Abonné·es",
+        "live": "Direct",
+        "searching": "Recherche en cours…",
+        "views": "Vues",
+        "themes": "Thèmes"
+    },
+    "player": {
+        "quality": "Qualité"
+    },
+    "home": {
+        "discover": "Découvrir",
+        "discoverDescription": "Survol des catégories populaires",
+        "tagDescription": "Filtrer les attributs",
+        "following": "Suivies",
+        "streamersYouFollow": "Chaînes suivies"
+    },
+    "streamer": {
+        "follow": "Suivre",
+        "unfollow": "Ne plus suivre",
+        "about": "À propos",
+        "videos": "Vidéos",
+        "videoerror": "Erreur lors de la récupération de vidéos",
+        "noAbout": "Pas d'information fournie",
+        "noSocials": "Pas de réseaux sociaux fournis"
+    },
+    "error": {
+        "oops": "Oups…",
+        "notsupposedtohappen": "Étrange, une erreur ?",
+        "serverexplain": "Le serveur a rencontré une erreur en cherchant les données, et voilà où nous en sommes :3",
+        "notfound": "Cette page n'existe pas :("
+    },
+    "nav": {
+        "code": "Code",
+        "privacy": "Vie privée",
+        "settings": "Paramètres"
+    },
+    "chat": {
+        "removed": "Message supprimé de {username}",
+        "resub": "{username} s'est abonné·e pour {duration} mois !",
+        "connecting": "Connexion à {username}",
+        "connected": "En lien avec {username}",
+        "banned": "{username} a été banni·e du chat",
+        "timeout": "{username} en sourdine pour {duration} seconds"
+    },
+    "settings": {
+        "defaultQuality": "Qualité par défaut",
+        "language": "Langue",
+        "chatVisible": "Cacher le chat",
+        "saveButton": "Enregistrer",
+        "audioOnly": "Audio Uniquement",
+        "streamerAboutSectionVisible": "Afficher la section À propos de la chaîne",
+        "autoplay": "Lecture automatique Audio/Vidéo",
+        "streamTagsVisible": "Afficher les tags du stream"
+    },
+    "share": {
+        "share": "Partager",
+        "twitchUrl": "URL Twitch",
+        "goto": "Aller à",
+        "addTimestamp": "Ajouter un horodatage",
+        "copyLink": "Copier le lien"
+    },
+    "following": {
+        "empty": "Tellement vide !",
+        "followAdvice": "Vous pourriez commencer par suivre quelques personnes ?"
+    }
+}
